@@ -1,0 +1,38 @@
+.app{
+    height: 100%;
+}
+
+.userDetails{
+    background-color: #cd7676 ;
+    color: white;
+}
+
+.userDetails rounded-end{
+    border-radius: 10%;
+}
+
+.userDetails button{
+    color: #cd7676;
+    font-size: large;
+}
+
+.detail{
+    background-color: #d9d9d9;
+    width: 75%;
+}
+
+.detail h2{
+    color: #cd7676;
+    text-align: center;
+}
+
+.timeLine{
+    background-color: white;
+}
+
+.dayDetails{
+    background-color: white;
+    width: 30%;
+    height: 40%;
+    text-align: center;
+}

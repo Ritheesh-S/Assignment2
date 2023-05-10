@@ -1,0 +1,33 @@
+{
+    "photoLink": "Sample.jfif",
+    "name": "RandomNane",
+    "Id": "45632",
+    "phoneNum": "9876523456",
+    "timeDetails": {
+        "dates": {
+            "1": {
+                "inconclusive": false,
+                "incomplete": false,
+                "inTime": "9:00 am",
+                "outTime": "6:00 pm",
+                "deductions": [
+                    {
+                        "inTime": "9:00 am",
+                        "outTime": null,
+                        "deduction": "0"
+                    },
+                    {
+                        "outTime": "1:00 pm",
+                        "inTime": "1:30 pm",
+                        "deduction": "0"
+                    },
+                    {
+                        "outTime": "6:00 pm",
+                        "inTime": null,
+                        "deduction": "0"
+                    }
+                ]
+            }
+        }
+    }
+}
